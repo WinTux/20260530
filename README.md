@@ -33,3 +33,11 @@ source("principal.R")
 # ejemplo de uso
 Ej desde la página local:
 Menu lateral izquierdo -> Data -> pubmed -> 
+
+# Software adicional (solo para Windows)
+- https://harzing.com/resources/publish-or-perish/windows
+
+# Enlaces de interés sobre investigación
+- https://www.scimagojr.com/journalrank.php
+- https://dm.ageditor.ar/index.php/dm/article/view/26/320
+
