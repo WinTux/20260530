@@ -1,0 +1,30 @@
+# R history and workspace
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# RStudio files
+*.Rproj.user
+*.Rproj
+
+# Output files
+*.html
+*.pdf
+*.docx
+
+# Temporary files
+*.tmp
+*.log
+
+# Packages cache
+renv/library/
+renv/staging/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Shiny / biblioshiny outputs (si generas logs o cache)
+shinylogs/
+rsconnect/
