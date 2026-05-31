@@ -6,7 +6,6 @@
 
 # RStudio files
 *.Rproj.user
-*.Rproj
 
 # Output files
 *.html
