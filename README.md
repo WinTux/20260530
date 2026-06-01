@@ -41,3 +41,6 @@ Menu lateral izquierdo -> Data -> pubmed ->
 - https://www.scimagojr.com/journalrank.php
 - https://dm.ageditor.ar/index.php/dm/article/view/26/320
 
+## APA
+El siguiente enlace contiene plantillas y ejemplos, tanto para estudiantes como profesionales, acerca del uso correcto de APA
+- https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers
